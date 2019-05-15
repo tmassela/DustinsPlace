@@ -1,0 +1,152 @@
+nav {
+  position: relative;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  z-index: 10000;
+  display: block;
+  width: 100%;
+  height: 100px;
+  padding-right: 25px;
+  padding-left: 25px;
+  background-color: #ffc40c;
+  }
+
+  ul {
+    
+    color: #ffffff;
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    text-decoration: none;
+    padding: 40px;
+    text-align: right;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+  }
+
+  li {
+    display: inline; 
+    font-size: 20px;
+    margin-right: 25px;
+    
+}
+
+li:hover {
+  color: black;
+  
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+#griefboy {
+  width: 1000px;
+  opacity: 0.6;
+  
+}
+
+#griefboy:hover {
+  opacity: 1.0;
+}
+
+.inset {
+  position: absolute;
+  top: 950px;
+  right: 300px;
+  width: 800px;
+  height: 250px;
+  background-color: #ffffff;
+  padding: 20px;
+  border: 1px solid black;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+.yellowbar {
+position: relative;
+left: 0px;
+top: 90px;
+right: 0px;
+display: block;
+width: 100%;
+height: 50px;
+background-color: #ffc40c;
+text-align: center;
+color: white;
+font-size: 25px;
+vertical-align: middle;
+padding: 10px;
+
+}
+
+.container {
+  display: flex;
+  height: 500px;
+  position: relative;
+  top: 100px;
+  margin-right: 50px;
+  margin-left: 50px;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+
+}
+
+.tallcontainer {
+  display: flex;
+  height: 700px;
+  position: relative;
+  top: 100px;
+  margin-right: 50px;
+  margin-left: 50px;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+.container img {
+  width: 150px;
+  border-radius: 50%;
+}
+
+.Dustin img {
+  width: 400px;
+  height: 300px;
+  border-radius: 2px;
+  margin-top: 20px;
+}
+.divleft {
+  width: 50%;
+  background-color: #f7f5f3;
+  padding: 20px;
+}
+
+.divright {
+  width: 50%;
+  padding: 20px;
+   
+}
+
+button {
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  background-color: white;
+  color: black;
+  border: 2px solid #ffc40c;  
+  border-radius: 4px;
+  padding: 14px 40px;
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+button:hover {
+  background-color: #ffc40c;  
+  color: white;
+}
+
+
+   
