@@ -1,7 +1,7 @@
 Dustin's Place Website
 =================
 
-<img src="DustinsPlace.jpg"
+<img src="DustinsPlace2.jpg"
      alt="Screenshot"
      style="float: left; margin-right: 10px;" /> 
 
